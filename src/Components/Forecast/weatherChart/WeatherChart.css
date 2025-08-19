@@ -1,0 +1,9 @@
+.chart-container {
+  min-height: 32rem;
+  min-width: 17rem;
+  border-radius: 10px;
+  background: #fefefe3d !important; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  padding: 5px 15px;
+  margin-top: 2rem;
+}

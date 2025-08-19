@@ -1,0 +1,6 @@
+.weather-box:hover {
+  background: #fefefe54 !important; 
+  transform: scale(1.02);
+  box-shadow: 0 0 4px 3px #2e2d2d4a;
+  cursor: pointer;
+}
